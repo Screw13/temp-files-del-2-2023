@@ -1,0 +1,1 @@
+a = pyautogui.locateOnScreen('b.png')
